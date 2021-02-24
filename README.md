@@ -6,12 +6,17 @@
 Sou um cara que curte demais tudo relacionado a tecnologia. 
 Analista de Sistemas formado em 2019 pelo IFSP Bragança Paulista. :computer:
 
- <br/> :exclamation: &nbsp; Atualmente trabalho na ***GADOTTICAR***
- <br/> :purple_heart: &nbsp; Posso te ajudar com PHP / Laravel / 
- <br/> :computer: &nbsp; Minha stack atual : PHP, Laravel , ReactJS
- <br/> :computer: &nbsp; Entusiasta na stack : Node.js, ReactJS e TypeScript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:1.6 (haha) , COD e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/adriano-rocha-lima-9743b0145/  mailto:adrianolima645@gmail.com
+ Atualmente trabalho na ***GADOTTICAR***
+ Posso te ajudar com PHP / Laravel / 
+ Minha stack atual : PHP, Laravel , ReactJS
+ Entusiasta na stack : Node.js, ReactJS e TypeScript
+ 
+ 💬 Sobre mim: Curto tecnologias, games CS:1.6 (haha) , COD e seriados no Netflix
+ 
+ Entre em contato comigo: 
+ 
+ Linkedin:  https://www.linkedin.com/in/adriano-rocha-lima-9743b0145/  
+ E-mail:  adrianolima645@gmail.com
 
 ```
 
