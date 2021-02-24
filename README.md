@@ -6,7 +6,7 @@
 Sou um cara que curte demais tudo relacionado a tecnologia. 
 Analista de Sistemas formado em 2019 pelo IFSP Bragança Paulista. :computer:
 
-  <br/> :exclamation: &nbsp; Atualmente trabalho na ***GADOTTICAR***
+ <br/> :exclamation: &nbsp; Atualmente trabalho na ***GADOTTICAR***
  <br/> :purple_heart: &nbsp; Posso te ajudar com PHP / Laravel / 
  <br/> :computer: &nbsp; Minha stack atual : PHP, Laravel , ReactJS
  <br/> :computer: &nbsp; Entusiasta na stack : Node.js, ReactJS e TypeScript
