@@ -15,8 +15,8 @@ Analista de Sistemas formado em 2019 pelo IFSP Bragança Paulista.
  
  Entre em contato comigo: 
  
- Linkedin:  https://www.linkedin.com/in/adriano-rocha-lima-9743b0145/  
- E-mail:  adrianolima645@gmail.com
+  <a href="https://www.linkedin.com/in/adriano-rocha-lima-9743b0145/" target="_blanked">Linkedin</a>  
+   <a href="mailto:adrianolima645@gmail.com">E-mail</a>
 
 ```
 
