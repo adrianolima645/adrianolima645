@@ -15,11 +15,11 @@ Analista de Sistemas formado em 2019 pelo IFSP Bragança Paulista.
  
  Entre em contato comigo: 
  
-  [Linkedin:]('https://www.linkedin.com/in/adriano-rocha-lima-9743b0145/')
-  [E-mail:]('mailto:adrianolima645@gmail.com')
+ 
 
 ```
-
+ [Linkedin](https://www.linkedin.com/in/adriano-rocha-lima-9743b0145/)
+  [E-mail](mailto:adrianolima645@gmail.com)
 <!--
 **adrianolima645/adrianolima645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
