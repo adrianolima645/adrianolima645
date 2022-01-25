@@ -6,8 +6,8 @@
 Sou um cara que curte demais tudo relacionado a tecnologia. 
 Analista de Sistemas formado em 2019 pelo IFSP Bragança Paulista. 
 
- Atualmente trabalho na ***GADOTTICAR***
- Posso te ajudar com PHP / Laravel / 
+ Atualmente trabalho na ***CI&T***
+ Posso te ajudar com PHP / Laravel / Drupal
  Minha stack atual : PHP, Laravel , ReactJS
  Entusiasta na stack : Node.js, ReactJS e TypeScript
  
